@@ -1,14 +1,14 @@
-# Outline/ Plan 
+Outline/ Plan 
 
-## 1. code reads PDB file and creates an interactive 3D model 
+1. code reads PDB file and creates an interactive 3D model 
 
-## 2. write code to calculate the dihedral angles of the ribose backbone and display it in a table
+2. write code to calculate the dihedral angles of the ribose backbone and display it in a table
 
-## 3. Calculate the tan(P) and v(max) values and display it in a table
-## Maybe plot it on a graph for visualization 
+3. Calculate the tan(P) and v(max) values and display it in a table
+* Maybe plot it on a graph for visualization 
 
-## 4. Based on the tan(P) and v(max) values, have the code display whether the RNA model is C3'-endo or C2'-endo 
+4. Based on the tan(P) and v(max) values, have the code display whether the RNA model is C3'-endo or C2'-endo 
 
-## 5. (Unsure whether or not I'm going to do) write code to calculate the dihedral angles of the phosphate backbone and display it in a table 
+5. write code to calculate the dihedral angles of the phosphate backbone and display it in a table 
 
-## 6. Have the code display whether the RNA is a A-form helix (RNA) or a B-form helix (DNA) 
+6. Have the code display whether the RNA is a A-form helix (RNA) or a B-form helix (DNA) 
