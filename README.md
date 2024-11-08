@@ -8,8 +8,6 @@ Conformation Analysis: Identifies C3' endo and C2' endo ribose conformations.
 Data Output: Generates a table of calculated angles.
 3D Visualization: Displays a model for visual interaction with the RNA structure.
 
-Installation and Usage WIP
-
 
 
 
